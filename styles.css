@@ -1,1 +1,27 @@
-/*  your css code here. If applicable */
+#openModal{
+	cursor:pointer;
+}
+.modal{
+	background-color:#ffffff;
+	padding:5px;
+	
+}
+.modal-header{
+	color:white;
+	background-color:green;
+	padding:10px;
+	cursor:pointer;
+	
+}
+.close-modal{
+	margin-left:610px;
+	position:relative;
+	top:-70px;
+	cursor:pointer;
+}
+
+.modal-body{
+	background-color:orange;
+	padding:10px;
+	cursor:pointer;
+}
